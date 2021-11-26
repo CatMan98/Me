@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @growlyt 
+- 🌱 I’m currently learning js and c++
+- 💞️ I’m looking to collaborate on games and on making apps
